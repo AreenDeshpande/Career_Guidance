@@ -7,10 +7,7 @@ This project is designed to provide career guidance to students using a combinat
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [How to Run](#how-to-run)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -56,13 +53,6 @@ The project will use:
 - **Interactive UI**: Modern and responsive user interface to ensure a smooth user experience.
 - **Data Insights**: Admins can view aggregated insights about student preferences and career trends.
 
-## How to Run
 
-Follow these steps to run the project locally.
 
-### Prerequisites
 
-- Node.js (version 14 or higher)
-- MongoDB (installed locally or using a cloud service like MongoDB Atlas)
-- Python (for the ML model)
-- NPM or Yarn (for package management)
