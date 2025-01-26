@@ -1,0 +1,31 @@
+.research-paper-analyser-page {
+    padding: 20px;
+    background-color: #F9FAFB;
+  }
+  
+  .upload-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .file-input {
+    padding: 10px;
+    border: 1px solid #D1D5DB;
+    border-radius: 5px;
+  }
+  
+  .upload-button {
+    background-color: #3B82F6;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .upload-button:hover {
+    background-color: #2563EB;
+  }

@@ -1,0 +1,30 @@
+.coding-environment-page {
+    padding: 20px;
+    background-color: #F9FAFB;
+  }
+  
+  .code-editor {
+    width: 100%;
+    height: 300px;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    border: 1px solid #D1D5DB;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .run-code-button {
+    background-color: #3B82F6;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .run-code-button:hover {
+    background-color: #2563EB;
+  }
+  
